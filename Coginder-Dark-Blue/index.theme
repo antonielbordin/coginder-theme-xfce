@@ -1,0 +1,89 @@
+[Icon Theme]
+Name=Coginder-Dark-Blue
+Comment=Simple folders and icons generales by Antoniel Bordin
+Example=folder
+
+# KDE Specific Stuff
+DisplayDepth=32
+LinkOverlay=link_overlay
+LockOverlay=lock_overlay
+ZipOverlay=zip_overlay
+DesktopDefault=48
+DesktopSizes=16,22,32,48,64,72,96,128
+ToolbarDefault=22
+ToolbarSizes=16,22,32,48
+MainToolbarDefault=22
+MainToolbarSizes=16,22,32,48
+SmallDefault=16
+SmallSizes=16
+PanelDefault=32
+PanelSizes=16,22,32,48,64,72,96,128
+
+# Directory list
+Directories=scalable/actions,scalable/status,scalable/places,scalable/devices,scalable/mimetypes,scalable/apps,scalable/categories
+
+########## Actions
+
+[scalable/actions]
+Context=Actions
+Size=48
+MinSize=16
+MaxSize=256
+Type=Scalable
+
+########## Status
+
+[scalable/status]
+Context=Status
+Size=48
+MinSize=16
+MaxSize=256
+Type=Scalable
+
+########## Places
+
+[scalable/places]
+Context=Places
+Size=64
+MinSize=16
+MaxSize=256
+Type=Scalable
+
+########## Devices
+
+[scalable/devices]
+Context=Devices
+Size=64
+MinSize=16
+MaxSize=256
+Type=Scalable
+
+########## MimeTypes
+
+[scalable/mimetypes]
+Size=64
+Type=Scalable 
+MinSize=16
+MaxSize=256
+Context=Mimetypes
+
+########## Apps
+
+[scalable/apps]
+Context=Applications
+Size=48
+MinSize=16
+MaxSize=256
+Type=Scalable 
+
+########## Categories
+
+[scalable/categories]
+Context=Categories
+Size=48
+MinSize=16
+MaxSize=256
+Type=Scalable
+
+
+

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   height="64"
+   version="1.1"
+   viewBox="0 0 64 64"
+   width="64"
+   id="svg10"
+   sodipodi:docname="application-x-bzip.svg"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   style="fill:#00fbff">
+  <metadata
+     id="metadata16">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs14" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1280"
+     inkscape:window-height="954"
+     id="namedview12"
+     showgrid="false"
+     inkscape:zoom="5.625"
+     inkscape:cx="13.991432"
+     inkscape:cy="18.034382"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg10" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 410.15859,-27.680754 h 16.08104 v 10.72069 h -16.08104 z m -16.08105,10.72069 h 16.08105 v 10.7207 h -16.08105 z m 16.08105,10.7207 h 16.08104 v 10.72069 h -16.08104 z m -16.08105,10.72069 h 16.08105 v 10.720702 h -16.08105 z m 16.08105,10.720702 h 16.08104 v 10.7207 h -16.08104 z m -16.08105,10.7207 h 16.08105 V 36.64342 h -16.08105 z m 16.08105,10.720692 v 10.7207 h -16.08105 v 37.52242 c 0,2.96059 2.39976,5.36035 5.36035,5.36035 h 21.44139 c 2.96059,0 5.36035,-2.39976 5.36035,-5.36035 V 36.64342 Z m 10.72069,42.88277 H 399.43789 V 68.80551 h 21.44139 z"
+     id="path65-3"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccssssccccccc"
+     style="fill:#00fbff;stroke-width:0.33502173" />
+  <path
+     d="M 59.990574,9.8073554 55.453778,4.3042344 C 54.536591,3.223264 53.17719,2.5189958 51.654004,2.5189958 H 12.345997 c -1.523185,0 -2.882587,0.7042682 -3.7833951,1.7852386 L 4.0258021,9.8073554 C 3.0758586,10.953839 2.5189957,12.395132 2.5189957,13.983831 v 40.94584 c 0,3.61961 2.931722,6.551333 6.5513345,6.551333 H 54.929671 c 3.61961,0 6.551333,-2.931723 6.551333,-6.551333 v -40.94584 c 0,-1.588699 -0.556859,-3.029992 -1.49043,-4.1764756 z"
+     id="path2"
+     style="fill:#1875c5;stroke-width:1.63783371;fill-opacity:1"
+     inkscape:connector-curvature="0" />
+  <path
+     d="M 9.4797885,9.0703302 12.149457,5.794663 h 39.308007 l 3.062749,3.2756672 z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="fill:#ffffff;stroke-width:1.63783371" />
+  <path
+     inkscape:connector-curvature="0"
+     d="m 16.027415,13.393363 h 6.400663 v 3.909226 H 16.027415 Z M 9.6267422,17.302589 H 16.027415 V 21.21183 H 9.6267422 Z m 6.4006728,3.909241 h 6.400663 v 3.909227 h -6.400663 z m -6.4006728,3.909227 h 6.4006728 v 3.90924 H 9.6267422 Z m 6.4006728,3.90924 h 6.400663 v 3.909234 h -6.400663 z m -6.4006728,3.909234 h 6.4006728 v 3.909227 H 9.6267422 Z m 6.4006728,3.909227 v 3.909233 H 9.6267422 v 13.682314 c 0,1.079562 0.9551678,1.954619 2.1335578,1.954619 h 8.534225 c 1.17839,0 2.133553,-0.875057 2.133553,-1.954619 V 36.848758 Z m 4.26711,15.636934 H 11.7603 v -3.909234 h 8.534225 z"
+     id="path65"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccssssccccccc"
+     style="fill:#ffffff;stroke-width:0.12763296" />
+  <text
+     style="font-weight:500;font-size:16.22743034px;line-height:120.00000477%;font-family:Roboto;letter-spacing:0;word-spacing:0;text-anchor:middle;fill:#ffffff;stroke-width:1.29819453"
+     font-size="12.5"
+     font-weight="500"
+     letter-spacing="0"
+     line-height="120.0000047684%"
+     word-spacing="0"
+     x="42.486271"
+     xml:space="preserve"
+     y="55.861935"
+     id="text6"><tspan
+       x="42.486271"
+       y="55.861935"
+       id="tspan4"
+       style="stroke-width:1.29819453">bz2</tspan></text>
+</svg>
